@@ -1,0 +1,16 @@
+[package]
+name = "hackermove"
+version = "1.0.0"
+authors = []
+
+[addresses]
+hackermove = "3d5a3162a65f9a092770d017e8c664ed89ced718eb7bdcc77b334cb4ad566575"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
