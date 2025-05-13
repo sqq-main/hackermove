@@ -1,4 +1,4 @@
-module hackermove::hackermove {
+module hackermove::user {
 
     use std::signer;
     use std::string;
